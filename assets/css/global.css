@@ -1,17 +1,20 @@
 * {
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
+    font-size: 16px;
+    animation: 4s ease-in-out all;
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: #787878;
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+    background-color: #787878;
+    border: 1px black solid;
 }
 
 @media screen and (min-width: 992px) {
