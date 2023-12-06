@@ -1,4 +1,4 @@
-export default pokemonGeneration = [
+export const pokemonGeneration = [
     {
         firstInGen: 0,
         lastInGen: 151,
@@ -21,7 +21,7 @@ export default pokemonGeneration = [
         Generation: 4
     },
     {
-        firstInGen: 387,
+        firstInGen: 494,
         lastInGen: 649,
         Generation: 5
     },
